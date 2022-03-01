@@ -1,12 +1,12 @@
 # gravity
-simulation of gravitational interaction n-bodies
+Simulation of gravitational interaction of n-number of bodies
 
-Image for thousand points:
+Example simulation for 1000 points:
 
 ![Alt text](https://github.com/gesard/gravity/blob/main/photo.png)
 
 
-Command for compile project:
+Project compilation options:
 
 
 ```
